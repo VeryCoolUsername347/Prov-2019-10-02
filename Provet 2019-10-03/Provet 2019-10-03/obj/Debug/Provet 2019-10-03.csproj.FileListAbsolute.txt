@@ -1,0 +1,6 @@
+c:\users\zion.depaulamollber\documents\visual studio 2017\Projects\Provet 2019-10-03\Provet 2019-10-03\bin\Debug\Provet 2019-10-03.exe.config
+c:\users\zion.depaulamollber\documents\visual studio 2017\Projects\Provet 2019-10-03\Provet 2019-10-03\bin\Debug\Provet 2019-10-03.exe
+c:\users\zion.depaulamollber\documents\visual studio 2017\Projects\Provet 2019-10-03\Provet 2019-10-03\bin\Debug\Provet 2019-10-03.pdb
+c:\users\zion.depaulamollber\documents\visual studio 2017\Projects\Provet 2019-10-03\Provet 2019-10-03\obj\Debug\Provet 2019-10-03.csprojResolveAssemblyReference.cache
+c:\users\zion.depaulamollber\documents\visual studio 2017\Projects\Provet 2019-10-03\Provet 2019-10-03\obj\Debug\Provet 2019-10-03.exe
+c:\users\zion.depaulamollber\documents\visual studio 2017\Projects\Provet 2019-10-03\Provet 2019-10-03\obj\Debug\Provet 2019-10-03.pdb
